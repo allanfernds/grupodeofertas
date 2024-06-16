@@ -1,0 +1,24 @@
+1693118809850	geckodriver	INFO	Listening on 127.0.0.1:41049
+1693118810341	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJDjvQz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1693118811724	Marionette	INFO	Marionette enabled
+1693118811908	Marionette	INFO	Listening on port 42563
+WebDriver BiDi listening on ws://127.0.0.1:42675
+Read port: 42563
+1693118812015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42675/devtools/browser/b0b46b16-41e8-4e6a-8fd2-433c00c365fa
+JavaScript warning: https://dugzuk8bop.map.azionedge.net/asset.axd?id=fwkAAB-LCAAAAAAABACVlsFu4jAQht8lZ-SwBChw7SNU2j1UPQzOEFxiO7Inoaji3deJuvESYhwuCMHn_8sknnG-kzzZvX8nVbJLXmtLWqavWhEqSv-IvECyaaF1USIDBeWFBLfpGzeiIpvMkkO3Vrm155wNOfbZIjrZza8f19lDhZBVXVpkEglC8f8zffSvaPTdVTXLyQU0y160iIoqo_OaE7MIhh9Djluqj8-i8fZiCSUzyKEifgTWZCHHCNqLllPqOAh3G0pdCPWgDA_14avnwpmGmh7dqSHai9aTRWcsuZbI7FFXFZqYbID3wpeocG_02QpVMA6EhTYXiaoO6UbhXraJyiSYE1IbsAelwmUNuV6xfUKh8GxLJJqi8axv0Xj7_2uKUqi2v3MBwSEzgnpTfBqMLW_ACCCh1VNSv8r7pw-JygiOMV0H-fT4jPDXaSleiyWfHR8LewMqd_vV6Npi-XsR3tq3nHfEp0MObrTXFgpkXKuDMDJkuSe9Jz4c0BhtmK2l27iXkOIG8ulPTAKpcyijI6CjfH68-X-OKQK31p1Vheu1Jvg4RmFvi8-BPVjX2-68UjlKEOF6Bpw_OeP93x7p3RM9Kc1Pug5u3jvQW-K9_3MsVu2mib7MjMLe1nb6xyzh5GjCL0o_oQHbRTmicb-us81is9y4z2y7mM9X2xf3B3cvW9l65b4kOzI1Xv8CCTGXmn8JAAA%3d, line 1102: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-LK51YPBM5G, line 163: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-LK51YPBM5G:163:17
+tz@https://www.googletagmanager.com/gtag/js?id=G-LK51YPBM5G:457:134
+uz/<@https://www.googletagmanager.com/gtag/js?id=G-LK51YPBM5G:457:111
+
+1693118860443	Marionette	INFO	Stopped listening on port 42563

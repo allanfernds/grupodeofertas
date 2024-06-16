@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "poetry new bot-de-ofertas"
+version = "0.1.0"
+description = "bot de ofertas"
+authors = ["Alan Fernandes <allanfernds@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+selenium = "^4.15.2"
+telebot = "^0.0.5"
+python-dotenv = "^1.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
